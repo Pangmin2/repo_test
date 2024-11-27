@@ -1,2 +1,2 @@
-newfile 5
+modified newfile 5
 
