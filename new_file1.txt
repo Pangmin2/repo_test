@@ -1,1 +1,1 @@
-new_file1.txt was written
+new_file1.txt was modified
